@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @huhansome, iOS developer
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @huhansome, iOS senior developer
+- 👀 good good study
+- 🌱 day day up
+- 📫 mail at hucd_mail@yeah.net ...
 
 <!---
 huhansome/huhansome is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
